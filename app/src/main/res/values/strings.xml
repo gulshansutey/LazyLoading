@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LazyLoading</string>
+    <string name="txt_seach_by_title">Search by Title</string>
+</resources>
